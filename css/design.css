@@ -1,0 +1,143 @@
+
+body{
+  margin:0;
+  text-align: center;
+
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+}
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 3rem;
+  color:#66BFBF;
+}
+h3{
+
+  font-family: 'Sacramento', cursive #000000;
+}
+.middle-container{
+
+  font-family: sans-serif;
+}
+h1{
+  margin-top:80px;
+  color:#66BFBF;
+}
+h3{
+  color:#11999E;
+}
+a{
+  color:#11999E;
+}
+.programmer{
+  font-weight: normal;
+}
+
+
+.top-cloud{
+  position: absolute;
+
+  right:500px;
+  padding-top: 50px;
+
+}
+.bottom-cloud{
+  position: absolute;
+}
+.another-one{
+  padding-top: 50px;
+}
+.img{
+  border-radius: 10%;
+}
+.j{
+  position: relative;
+  bottom: 100px;
+  right:400px;
+}
+hr{
+  border:dotted #000000 6px;
+  border-bottom: none;
+  width: 30%;
+
+}
+.para-htm{
+  width:30%;
+  margin: 60px auto;
+}
+.htm{
+  float:left;
+  position:relative;
+  bottom:15px;
+  left:10px;
+  margin-left: 300px;
+
+}
+.profile-img{
+  margin-top: 50px;
+}
+.images{
+    padding-bottom: 0px;
+}
+.rest{
+ background-color: #EEEEEE;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 10px auto;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+.cs{
+   margin-top:100px;
+   float:right;
+   margin-right: 450px;
+   margin-bottom: 100px;
+   width: 10%;
+   margin-left: 50px;
+}
+.j{
+  float:left;
+  position:relative;
+  left:300px;
+
+
+}
+.bottom-container{
+   margin-top:20px;
+
+}
+.footer{
+  background-color:#EEEEEE; 
+}
+.para-css{
+  margin: 200px auto;
+  width:40%;
+  text-align: center;
+}
+.para-js{
+  width:40%;
+  margin-bottom:200px;
+  margin-left: 500px;
+}
